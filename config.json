@@ -1,9 +1,9 @@
 {
-  "token": "your bot token",
+  "token": "NDI1Mzg2Njc5MTY0MDc2MDMy.DZGrvg.5bRFpyuik1NiGzzvPMfQi4T591s",
   "mailGuildId": "id of the modmail inbox server",
   "mainGuildId": "id of the main server where users will DM the bot",
   "logChannelId": "id of the channel on the inbox server where notifications of new logs etc. will be posted",
 
-  "status": "Message me for help!",
-  "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
+  "status": "Message me to contact a Mod!",
+  "responseMessage": "Thank you for contacting fortnite talks moderation team! We will respond as soon as possible!"
 }
