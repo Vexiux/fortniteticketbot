@@ -6,5 +6,5 @@
 
   "status": "Message me to contact a Mod!",
   "responseMessage": "Thank you for contacting fortnite talks moderation team! We will respond as soon as possible!"
-  "alwaysReply" true
+  "alwaysReply": true
 }
