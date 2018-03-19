@@ -6,7 +6,7 @@
 
   "status": "Message me to contact a Mod!",
   "responseMessage": "Thank you for contacting fortnite talks moderation team! We will respond as soon as possible!"
-  "prefix"	"!ticket"
-  "enableGreeting"	"true"
-  "greetingMessage"	"Hi! I'm the official Fortnite Talks Ticket Bot! To sumbit a ticket, just DM me the message !ticket and it will be submitted to our moderation team! Have a nice time at Fortnite Talks! :D"
+  "prefix":	"!ticket"
+  "enableGreeting":	"true"
+  "greetingMessage":	"Hi! I'm the official Fortnite Talks Ticket Bot! To sumbit a ticket, just DM me the message !ticket and it will be submitted to our moderation team! Have a nice time at Fortnite Talks! :D"
 }
